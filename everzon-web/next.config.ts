@@ -8,7 +8,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: 'export',
+  // output: 'export',  // 静态导出，禁用SSR，适合纯静态网站
   images: {
     unoptimized: true,
   },
