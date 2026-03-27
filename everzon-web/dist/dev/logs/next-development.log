@@ -1,0 +1,6 @@
+{"timestamp":"00:00:04.322","source":"Server","level":"WARN","message":"⚠ Slow filesystem detected. The benchmark took 2074ms. If D:\\TRAED_IDE\\TRAED_workspace\\everzon\\everzon-web\\dist/dev is a network drive, consider moving it to a local folder.\nSee more: https://nextjs.org/docs/app/guides/local-development"}
+{"timestamp":"00:00:04.334","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:07.422","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"00:00:09.489","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:00:10.364","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:12:25.044","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
