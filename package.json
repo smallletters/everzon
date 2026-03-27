@@ -1,0 +1,7 @@
+{
+  "name": "everzon-root",
+  "private": true,
+  "scripts": {
+    "build": "cd everzon-web && npm install && npm run build"
+  }
+}

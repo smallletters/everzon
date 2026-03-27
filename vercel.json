@@ -1,7 +1,6 @@
 {
   "version": 2,
-  "installCommand": "cd everzon-web && npm install",
-  "buildCommand": "cd everzon-web && npm run build",
+  "buildCommand": "npm run build",
   "outputDirectory": "everzon-web/dist",
   "framework": "nextjs"
 }
